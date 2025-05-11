@@ -1,0 +1,26 @@
+table { 
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    line-height: 1.5;  
+  }
+  
+  thead { 
+    background-color: black;
+    color: white;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 12px 15px;
+    text-align: left;
+    vertical-align: top
+  }
+  
+  code { 
+    font-family: monospace; 
+    font-style: italic;
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
